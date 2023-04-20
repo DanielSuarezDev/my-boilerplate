@@ -1,7 +1,7 @@
 {
-  "name": "my-boilerplate-react",
+  "name": "bank-list",
   "version": "1.0.0",
-  "description": "My awesome ReactJS app",  
+  "description": "My awesome ReactJS app",
   "author": "Daniel Suarez Dev",
   "license": "MIT",
   "private": false,
@@ -22,7 +22,8 @@
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4",
-    "zustand": "^3.5.13"
+    "zustand": "^3.5.13",
+    "zustand-persist": "^0.4.0"
   },
   "scripts": {
     "start": "react-scripts start",

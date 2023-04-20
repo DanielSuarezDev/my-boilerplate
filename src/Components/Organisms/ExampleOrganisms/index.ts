@@ -1,1 +1,0 @@
-export {ExampleOrganisms} from './ExampleOrganisms';

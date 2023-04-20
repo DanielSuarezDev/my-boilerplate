@@ -5,7 +5,7 @@ export {Button} from './Atoms/Button';
 export {ExampleMolecules} from './Molecules/ExampleMolecules';
 
 //Organisms
-export {ExampleOrganisms} from './Organisms/ExampleOrganisms';
+export {Header} from './Organisms/Header';
 
 //Templates
 export {ExampleTemplate} from './Templates/ExampleTemplate';
